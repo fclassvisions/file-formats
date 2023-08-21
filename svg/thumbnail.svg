@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<svg width="1280" height="720" viewbox="0 0 1280 720" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .purple {
+                fill: purple;
+                text-anchor: middle;
+                font-family: verdana;
+                font-weight: bold;
+                font-size: 40px;
+            }
+        </style>
+    </defs>
+    <rect class="purple" x="120" y="120" width="1160" height="480" rx="20" ry="20" />
+    <ellipse cx="700" cy="360" width="1120" height="440" rx="560" ry="180" fill="white" />
+    <ellipse cx="700" cy="360" width="1100" height="420" rx="550" ry="170" fill="#690069" />
+    <circle cx="700" cy="360" r="220" fill="white" />
+    <g class="purple">
+        <text x="700" y="260">How To Code</text>
+        <rect x="480" y="300" width="440" height="120" fill="#690069" />
+        <text x="700" y="350" font-size="45px" fill="white">SVG</text>
+        <text x="700" y="400" font-size="45px" fill="white">THUMBNAILS</text>
+        <text x="700" y="490">For Youtube</text>
+    </g>
+</svg>
